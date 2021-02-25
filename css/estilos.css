@@ -32,3 +32,10 @@ body {
     font-size: 30px;
 }
 
+footer p {
+    text-align: center;
+    color: white;
+    background: black;
+    padding: 0.5em;
+}
+
